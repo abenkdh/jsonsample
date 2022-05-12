@@ -1,0 +1,15 @@
+{
+  "ads": {
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admob_open": "ca-app-pub-3940256099942544/3419835294",
+    "admob_interstitial_click": 3,
+    "startapp_id": "startapp"
+  },
+  "redirect": {
+    "url": "https://play.google.com/store/apps/details?id=balti.migrate",
+    "pesan_dialog": "aplikasi pindah ke",
+    "judul_dialog": "update",
+    "enable": false
+  }
+}
