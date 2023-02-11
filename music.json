@@ -1,0 +1,1768 @@
+{
+  "status": "SUCCESS",
+  "message": null,
+  "data": {
+    "total": 5174,
+    "start": 1,
+    "results": [
+      {
+        "id": "4dEOll-0",
+        "name": "Easy On Me",
+        "type": "",
+        "album": {
+          "id": "30866794",
+          "name": "30",
+          "url": "https://www.jiosaavn.com/album/30/YJODPDu-7No_"
+        },
+        "year": "2021",
+        "releaseDate": null,
+        "duration": "224",
+        "label": "Columbia",
+        "primaryArtists": "Adele",
+        "primaryArtistsId": "610905",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "7845103",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/RAwufhhcGgM",
+        "copyright": "(P) 2021 Melted Stone under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/430/30-English-2021-20211118004711-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/430/30-English-2021-20211118004711-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/430/30-English-2021-20211118004711-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/430/17fd146e361291e9483d336fa266b34f_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/430/17fd146e361291e9483d336fa266b34f_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/430/17fd146e361291e9483d336fa266b34f_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/430/17fd146e361291e9483d336fa266b34f_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/430/17fd146e361291e9483d336fa266b34f_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "5YkyAlxF",
+        "name": "Easy On Me",
+        "type": "",
+        "album": {
+          "id": "30277000",
+          "name": "Easy On Me",
+          "url": "https://www.jiosaavn.com/album/easy-on-me/TJ6Yx05oqHI_"
+        },
+        "year": "2021",
+        "releaseDate": null,
+        "duration": "224",
+        "label": "Columbia",
+        "primaryArtists": "Adele",
+        "primaryArtistsId": "610905",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "7842973",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/RTEASDVcT3U",
+        "copyright": "(P) 2021 Melted Stone under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/907/Easy-On-Me-English-2021-20211015071105-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/907/Easy-On-Me-English-2021-20211015071105-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/907/Easy-On-Me-English-2021-20211015071105-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/907/f35b0872425f8481706558c0b6cd64e4_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/907/f35b0872425f8481706558c0b6cd64e4_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/907/f35b0872425f8481706558c0b6cd64e4_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/907/f35b0872425f8481706558c0b6cd64e4_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/907/f35b0872425f8481706558c0b6cd64e4_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "CGvJR7T-",
+        "name": "Easy On Me (Remix)",
+        "type": "",
+        "album": {
+          "id": "31961558",
+          "name": "Easy On Me (Remix)",
+          "url": "https://www.jiosaavn.com/album/easy-on-me-remix/FkzzSGUlLZY_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "211",
+        "label": "JB Entertainment LLC",
+        "primaryArtists": "Will Gittens",
+        "primaryArtistsId": "1946207",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "4680",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me-remix/My8deyYHYx4",
+        "copyright": "© 2022 Create Music Group",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/394/Easy-On-Me-Remix--English-2022-20220105222908-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/394/Easy-On-Me-Remix--English-2022-20220105222908-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/394/Easy-On-Me-Remix--English-2022-20220105222908-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/394/4a404d46f98d0c6136e96e02992f1861_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/394/4a404d46f98d0c6136e96e02992f1861_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/394/4a404d46f98d0c6136e96e02992f1861_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/394/4a404d46f98d0c6136e96e02992f1861_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/394/4a404d46f98d0c6136e96e02992f1861_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "2a5nLp6X",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "34181729",
+          "name": "Instrumental Covers, Vol. 2",
+          "url": "https://www.jiosaavn.com/album/instrumental-covers-vol.-2/WRVpwduW-qY_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "202",
+        "label": "The Flamenco Man",
+        "primaryArtists": "The Flamenco Man",
+        "primaryArtistsId": "3494995",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "62",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/QgleXzhAAWs",
+        "copyright": "© 2022 The Flamenco Man",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/543/Instrumental-Covers-Vol-2-English-2022-20220410192046-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/543/Instrumental-Covers-Vol-2-English-2022-20220410192046-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/543/Instrumental-Covers-Vol-2-English-2022-20220410192046-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/543/5cb80dc312f07b13097eb832c5d46862_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/543/5cb80dc312f07b13097eb832c5d46862_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/543/5cb80dc312f07b13097eb832c5d46862_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/543/5cb80dc312f07b13097eb832c5d46862_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/543/5cb80dc312f07b13097eb832c5d46862_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "XGJbu7hd",
+        "name": "Easy On Me",
+        "type": "",
+        "album": {
+          "id": "12908167",
+          "name": "R.O.S.E. (Realisations)",
+          "url": "https://www.jiosaavn.com/album/r.o.s.e.-realisations/ZfJybMRAjz4_"
+        },
+        "year": "2018",
+        "releaseDate": null,
+        "duration": "299",
+        "label": "Republic Records",
+        "primaryArtists": "Jessie J",
+        "primaryArtistsId": "604768",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 1,
+        "playCount": "5653",
+        "language": "english",
+        "hasLyrics": "true",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/KC8hUwEHX1c",
+        "copyright": "℗ 2018 Republic Records a division of UMG Recordings Inc & Lava Music LLC",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/785/R-O-S-E-Realisations--English-2018-20180520232056-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/785/R-O-S-E-Realisations--English-2018-20180520232056-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/785/R-O-S-E-Realisations--English-2018-20180520232056-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/785/ff252107a5b09607781e1c6acac4e31e_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/785/ff252107a5b09607781e1c6acac4e31e_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/785/ff252107a5b09607781e1c6acac4e31e_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/785/ff252107a5b09607781e1c6acac4e31e_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/785/ff252107a5b09607781e1c6acac4e31e_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "Pfx5nrnS",
+        "name": "Easy On Me",
+        "type": "",
+        "album": {
+          "id": "32393468",
+          "name": "Easy On Me (Tribute To Adele)",
+          "url": "https://www.jiosaavn.com/album/easy-on-me-tribute-to-adele/DnuE8D3PVs8_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "224",
+        "label": "J Records",
+        "primaryArtists": "Disco Fever",
+        "primaryArtistsId": "929321",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "205",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/IA4TBBpCWWA",
+        "copyright": "℗ 2021 J Records",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/415/Easy-On-Me-Tribute-To-Adele--English-2022-20220124142209-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/415/Easy-On-Me-Tribute-To-Adele--English-2022-20220124142209-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/415/Easy-On-Me-Tribute-To-Adele--English-2022-20220124142209-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/415/026bd50764628fa51da088b73476d9c2_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/415/026bd50764628fa51da088b73476d9c2_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/415/026bd50764628fa51da088b73476d9c2_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/415/026bd50764628fa51da088b73476d9c2_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/415/026bd50764628fa51da088b73476d9c2_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "sy8LUhBe",
+        "name": "Easy On Me",
+        "type": "",
+        "album": {
+          "id": "31470911",
+          "name": "Easy On Me",
+          "url": "https://www.jiosaavn.com/album/easy-on-me/y5p1DbLStJ8_"
+        },
+        "year": "2021",
+        "releaseDate": null,
+        "duration": "196",
+        "label": "Inameit",
+        "primaryArtists": "Moonsound, Round Light",
+        "primaryArtistsId": "1535460, 9723241",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "75",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/AxFTfSFYdVY",
+        "copyright": "℗ 2021 INAMEIT",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/993/Easy-On-Me-English-2021-20211211180557-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/993/Easy-On-Me-English-2021-20211211180557-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/993/Easy-On-Me-English-2021-20211211180557-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/993/223427d8c347fb9238ecec7399a92543_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/993/223427d8c347fb9238ecec7399a92543_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/993/223427d8c347fb9238ecec7399a92543_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/993/223427d8c347fb9238ecec7399a92543_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/993/223427d8c347fb9238ecec7399a92543_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "bdZJbXq9",
+        "name": "Easy On Me (Remix Dance)",
+        "type": "",
+        "album": {
+          "id": "30763796",
+          "name": "Easy On Me (Remix Dance)",
+          "url": "https://www.jiosaavn.com/album/easy-on-me-remix-dance/YmaVEZT2Q1s_"
+        },
+        "year": "2021",
+        "releaseDate": null,
+        "duration": "180",
+        "label": "Summit Production",
+        "primaryArtists": "Paola",
+        "primaryArtistsId": "720576",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "116",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me-remix-dance/EgwxexZoRgo",
+        "copyright": "℗ 2021 Summit Production",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/496/Easy-On-Me-Remix-Dance--English-2021-20211110180232-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/496/Easy-On-Me-Remix-Dance--English-2021-20211110180232-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/496/Easy-On-Me-Remix-Dance--English-2021-20211110180232-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/496/cc753d203cf55fdb58137168a00bc5ac_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/496/cc753d203cf55fdb58137168a00bc5ac_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/496/cc753d203cf55fdb58137168a00bc5ac_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/496/cc753d203cf55fdb58137168a00bc5ac_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/496/cc753d203cf55fdb58137168a00bc5ac_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "CSOF_qyL",
+        "name": "Easy on me",
+        "type": "",
+        "album": {
+          "id": "32940986",
+          "name": "Easy On Me",
+          "url": "https://www.jiosaavn.com/album/easy-on-me/ZxMd7UyE4FE_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "291",
+        "label": "Doja Kehlani Smith",
+        "primaryArtists": "Sarvinarck, Doja Kehlani Smith",
+        "primaryArtistsId": "12282614, 12462894",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "1",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/MzskdytBTn8",
+        "copyright": "© 2022 Doja Kehlani Smith",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/948/Easy-On-Me-English-2022-20220216152122-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/948/Easy-On-Me-English-2022-20220216152122-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/948/Easy-On-Me-English-2022-20220216152122-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/948/2e79ab34d6a3b667869364f498dcda7d_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/948/2e79ab34d6a3b667869364f498dcda7d_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/948/2e79ab34d6a3b667869364f498dcda7d_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/948/2e79ab34d6a3b667869364f498dcda7d_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/948/2e79ab34d6a3b667869364f498dcda7d_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "M9E_Y6sM",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "30407243",
+          "name": "TikTok Hits 2021, Vol. 6",
+          "url": "https://www.jiosaavn.com/album/tiktok-hits-2021-vol.-6/dw0YA3sLrHU_"
+        },
+        "year": "2021",
+        "releaseDate": null,
+        "duration": "220",
+        "label": "TikTok Music",
+        "primaryArtists": "DJ Challenge X",
+        "primaryArtistsId": "9005341",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 1,
+        "playCount": "1",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/PVEubi0GRH4",
+        "copyright": "℗ 2021 TikTok Music",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/737/TikTok-Hits-2021-Vol-6-English-2021-20211020044914-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/737/TikTok-Hits-2021-Vol-6-English-2021-20211020044914-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/737/TikTok-Hits-2021-Vol-6-English-2021-20211020044914-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/737/e6284d6e39f57015cff1af91da9c3bc5_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/737/e6284d6e39f57015cff1af91da9c3bc5_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/737/e6284d6e39f57015cff1af91da9c3bc5_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/737/e6284d6e39f57015cff1af91da9c3bc5_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/737/e6284d6e39f57015cff1af91da9c3bc5_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "U58mHGE4",
+        "name": "Easy On Me",
+        "type": "",
+        "album": {
+          "id": "36112257",
+          "name": "Easy On Me",
+          "url": "https://www.jiosaavn.com/album/easy-on-me/s,PRUSyRvfQ_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "105",
+        "label": "Boomy Corporation",
+        "primaryArtists": "Joevasca",
+        "primaryArtistsId": "6149082",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "unknown",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/JV1TXDx3cgc",
+        "copyright": "℗ 2022 Boomy Corporation",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/838/Easy-On-Me-Unknown-2022-20220630070024-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/838/Easy-On-Me-Unknown-2022-20220630070024-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/838/Easy-On-Me-Unknown-2022-20220630070024-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/838/79fa8e1a33f1d428db993627972b7dd7_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/838/79fa8e1a33f1d428db993627972b7dd7_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/838/79fa8e1a33f1d428db993627972b7dd7_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/838/79fa8e1a33f1d428db993627972b7dd7_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/838/79fa8e1a33f1d428db993627972b7dd7_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "UkXpyWRD",
+        "name": "EASY ON ME",
+        "type": "",
+        "album": {
+          "id": "32039315",
+          "name": "MINI NEXT GENERATION 2021 - Cover Compilation, Vol. 1",
+          "url": "https://www.jiosaavn.com/album/mini-next-generation-2021---cover-compilation-vol.-1/DJAJnZEyIGU_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "223",
+        "label": "SONORHA Discography Label",
+        "primaryArtists": "Asia Accogli",
+        "primaryArtistsId": "12193478",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/JQMzQQ1nZXc",
+        "copyright": "℗ 2022 SONORHA Discography Label",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/383/MINI-NEXT-GENERATION-2021-Cover-Compilation-Vol-1-English-2022-20220108171731-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/383/MINI-NEXT-GENERATION-2021-Cover-Compilation-Vol-1-English-2022-20220108171731-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/383/MINI-NEXT-GENERATION-2021-Cover-Compilation-Vol-1-English-2022-20220108171731-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/383/c99901bc462313a99ec6b858798db040_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/383/c99901bc462313a99ec6b858798db040_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/383/c99901bc462313a99ec6b858798db040_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/383/c99901bc462313a99ec6b858798db040_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/383/c99901bc462313a99ec6b858798db040_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "jnKta1Ux",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "18683115",
+          "name": "Songbird",
+          "url": "https://www.jiosaavn.com/album/songbird/xIRQTTG6,BI_"
+        },
+        "year": "2020",
+        "releaseDate": null,
+        "duration": "240",
+        "label": "Landt LLC",
+        "primaryArtists": "Landt",
+        "primaryArtistsId": "4252993",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/GgYgRRUBYks",
+        "copyright": "℗ 2020 Landt LLC",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/081/Songbird-English-2020-20200117213957-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/081/Songbird-English-2020-20200117213957-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/081/Songbird-English-2020-20200117213957-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/081/d2136582288a77dbd2026cd7a201d2e9_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/081/d2136582288a77dbd2026cd7a201d2e9_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/081/d2136582288a77dbd2026cd7a201d2e9_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/081/d2136582288a77dbd2026cd7a201d2e9_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/081/d2136582288a77dbd2026cd7a201d2e9_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "lMIaQKwQ",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "1257140",
+          "name": "C'mon",
+          "url": "https://www.jiosaavn.com/album/cmon/yvGTJVsGdkE_"
+        },
+        "year": "2010",
+        "releaseDate": null,
+        "duration": "212",
+        "label": "A OK Entertainment / GMV Nashville",
+        "primaryArtists": "Amber Hayes",
+        "primaryArtistsId": "856527",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "5",
+        "language": "english",
+        "hasLyrics": "true",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/HCUiUCV7QGI",
+        "copyright": "© 2010 A OK Entertainment / GMV Nashville",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/922/C-mon-English-2010-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/922/C-mon-English-2010-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/922/C-mon-English-2010-500x500.jpg"
+          }
+        ],
+        "downloadUrl": false
+      },
+      {
+        "id": "menJk9hX",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "17046597",
+          "name": "Easy on Me",
+          "url": "https://www.jiosaavn.com/album/easy-on-me/uWUDnV2B2mc_"
+        },
+        "year": "2019",
+        "releaseDate": null,
+        "duration": "272",
+        "label": "Stand And Sway",
+        "primaryArtists": "Stand And Sway",
+        "primaryArtistsId": "6846831",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "2",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/HQ0Fex8JX2s",
+        "copyright": "© 2019 Stand And Sway",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/978/Easy-on-Me-English-2019-20190823133629-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/978/Easy-on-Me-English-2019-20190823133629-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/978/Easy-on-Me-English-2019-20190823133629-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/978/e41a1667bac189c4607dd13e256efb1d_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/978/e41a1667bac189c4607dd13e256efb1d_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/978/e41a1667bac189c4607dd13e256efb1d_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/978/e41a1667bac189c4607dd13e256efb1d_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/978/e41a1667bac189c4607dd13e256efb1d_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "96ZO4Zqo",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "34713364",
+          "name": "Study Library Ambience",
+          "url": "https://www.jiosaavn.com/album/study-library-ambience/IKvNbALGSHQ_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "82",
+        "label": "Relaxing Music",
+        "primaryArtists": "Meditation Music, Calm Music, Reiki Music",
+        "primaryArtistsId": "846381, 5005086, 927716",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "unknown",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/SV4xfkBqRlw",
+        "copyright": "℗ 2022 RELAXING MUSIC / MEDITATION MUSIC",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/810/Study-Library-Ambience-Unknown-2022-20220503154408-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/810/Study-Library-Ambience-Unknown-2022-20220503154408-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/810/Study-Library-Ambience-Unknown-2022-20220503154408-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/810/401b7a93d77d55fe711ffd6953a5e87f_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/810/401b7a93d77d55fe711ffd6953a5e87f_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/810/401b7a93d77d55fe711ffd6953a5e87f_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/810/401b7a93d77d55fe711ffd6953a5e87f_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/810/401b7a93d77d55fe711ffd6953a5e87f_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "Dl8XjtxV",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "31821947",
+          "name": "Easy on Me",
+          "url": "https://www.jiosaavn.com/album/easy-on-me/mZrJqRBcP7Q_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "231",
+        "label": "Spades Music International",
+        "primaryArtists": "Momento",
+        "primaryArtistsId": "1583901",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/NARTaR5ET2U",
+        "copyright": "© 2022 Momento",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/952/Easy-on-Me-English-2022-20211229094538-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/952/Easy-on-Me-English-2022-20211229094538-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/952/Easy-on-Me-English-2022-20211229094538-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/952/f269cfedc449344fc1499a00aaa76c40_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/952/f269cfedc449344fc1499a00aaa76c40_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/952/f269cfedc449344fc1499a00aaa76c40_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/952/f269cfedc449344fc1499a00aaa76c40_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/952/f269cfedc449344fc1499a00aaa76c40_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "Au58o1OB",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "26185779",
+          "name": "Keep It Close",
+          "url": "https://www.jiosaavn.com/album/keep-it-close/3j9zPUipsio_"
+        },
+        "year": "2021",
+        "releaseDate": null,
+        "duration": "190",
+        "label": "Muscle Beach Records",
+        "primaryArtists": "Anne Freeman",
+        "primaryArtistsId": "4308231",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/MR1eCRsBeHE",
+        "copyright": "(P) 2021 Muscle Beach Records",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/335/Keep-It-Close-English-2021-20210326015756-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/335/Keep-It-Close-English-2021-20210326015756-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/335/Keep-It-Close-English-2021-20210326015756-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/335/0af4f67b3ad8e40d5db7c501dfb25cb1_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/335/0af4f67b3ad8e40d5db7c501dfb25cb1_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/335/0af4f67b3ad8e40d5db7c501dfb25cb1_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/335/0af4f67b3ad8e40d5db7c501dfb25cb1_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/335/0af4f67b3ad8e40d5db7c501dfb25cb1_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "vmGIpe6V",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "34631088",
+          "name": "Easy on Me",
+          "url": "https://www.jiosaavn.com/album/easy-on-me/JFUnp-FEV1k_"
+        },
+        "year": "2020",
+        "releaseDate": null,
+        "duration": "222",
+        "label": "La Cupula Music",
+        "primaryArtists": "Mayte Terrón",
+        "primaryArtistsId": "4808869",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/BgUseARVAWU",
+        "copyright": "℗ 2021 mayte terron",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/327/Easy-on-Me-English-2020-20220429203833-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/327/Easy-on-Me-English-2020-20220429203833-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/327/Easy-on-Me-English-2020-20220429203833-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/327/74e089ef98cd9c8ca867c90de0da2da5_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/327/74e089ef98cd9c8ca867c90de0da2da5_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/327/74e089ef98cd9c8ca867c90de0da2da5_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/327/74e089ef98cd9c8ca867c90de0da2da5_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/327/74e089ef98cd9c8ca867c90de0da2da5_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "e81UKDEX",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "33663976",
+          "name": "Piano of Hope",
+          "url": "https://www.jiosaavn.com/album/piano-of-hope/eqm7Yj8go4o_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "188",
+        "label": "Ambient Ambience",
+        "primaryArtists": "The Friendly Piano, Sleeping Piano, Study Music And Piano Music",
+        "primaryArtistsId": "5870458, 1625129, 3759925",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "1",
+        "language": "unknown",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/FVBaZD90cms",
+        "copyright": "© 2022 Ambient Ambience",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/299/Piano-of-Hope-Unknown-2022-20220317063424-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/299/Piano-of-Hope-Unknown-2022-20220317063424-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/299/Piano-of-Hope-Unknown-2022-20220317063424-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/299/b28a45abb4d4b38e24051020661a3781_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/299/b28a45abb4d4b38e24051020661a3781_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/299/b28a45abb4d4b38e24051020661a3781_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/299/b28a45abb4d4b38e24051020661a3781_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/299/b28a45abb4d4b38e24051020661a3781_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "RB7AxZfk",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "2697414",
+          "name": "Contagious",
+          "url": "https://www.jiosaavn.com/album/contagious/FG3ei1X5qgk_"
+        },
+        "year": "2016",
+        "releaseDate": null,
+        "duration": "259",
+        "label": "Escape Music Ltd",
+        "primaryArtists": "Overland",
+        "primaryArtistsId": "855912",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/IipccAxqUVg",
+        "copyright": "© 2016 Escape Music Ltd",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/976/Contagious-English-2016-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/976/Contagious-English-2016-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/976/Contagious-English-2016-500x500.jpg"
+          }
+        ],
+        "downloadUrl": false
+      },
+      {
+        "id": "VfXfD1yo",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "29658668",
+          "name": "New Music Technology",
+          "url": "https://www.jiosaavn.com/album/new-music-technology/Sa0Fu88ekuc_"
+        },
+        "year": "2021",
+        "releaseDate": null,
+        "duration": "358",
+        "label": "Work to Live, Don't Live to Work",
+        "primaryArtists": "Notfen A.k.a. Beat Hero",
+        "primaryArtistsId": "2776649",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/Jg4zVzABTlw",
+        "copyright": "© 2021 Work to Live, Don't Live to Work",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/451/New-Music-Technology-English-2021-20210914163454-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/451/New-Music-Technology-English-2021-20210914163454-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/451/New-Music-Technology-English-2021-20210914163454-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/451/48261673dc3904260213659ba4a1e453_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/451/48261673dc3904260213659ba4a1e453_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/451/48261673dc3904260213659ba4a1e453_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/451/48261673dc3904260213659ba4a1e453_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/451/48261673dc3904260213659ba4a1e453_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "RVa4G00k",
+        "name": "Easy On Me",
+        "type": "",
+        "album": {
+          "id": "30106924",
+          "name": "Things I Can’t Say Out Loud",
+          "url": "https://www.jiosaavn.com/album/things-i-can%E2%80%99t-say-out-loud/r-pWW4G5ylU_"
+        },
+        "year": "2021",
+        "releaseDate": null,
+        "duration": "158",
+        "label": "Kontor Records",
+        "primaryArtists": "Tom Gregory",
+        "primaryArtistsId": "921458",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "english",
+        "hasLyrics": "true",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/Ij4KBTMAB1g",
+        "copyright": "© 2021 Kontor Records GmbH / Heaven Shall Dance",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/773/Things-I-Can-t-Say-Out-Loud-English-2021-20211006150156-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/773/Things-I-Can-t-Say-Out-Loud-English-2021-20211006150156-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/773/Things-I-Can-t-Say-Out-Loud-English-2021-20211006150156-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/773/15889ee67a8b5e716fd240e724f41052_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/773/15889ee67a8b5e716fd240e724f41052_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/773/15889ee67a8b5e716fd240e724f41052_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/773/15889ee67a8b5e716fd240e724f41052_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/773/15889ee67a8b5e716fd240e724f41052_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "8DskzF20",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "35401929",
+          "name": "Easy on Me",
+          "url": "https://www.jiosaavn.com/album/easy-on-me/eIDsi0tiu8Q_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "277",
+        "label": "Burton Avenue Music",
+        "primaryArtists": "Phillip Keveren",
+        "primaryArtistsId": "2555630",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/SCwYWg52BQM",
+        "copyright": "© 2022 Burton Avenue Music",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/813/Easy-on-Me-English-2022-20220601022347-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/813/Easy-on-Me-English-2022-20220601022347-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/813/Easy-on-Me-English-2022-20220601022347-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/813/d72dc5b0cd36b32c9f6f842d9e99a71f_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/813/d72dc5b0cd36b32c9f6f842d9e99a71f_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/813/d72dc5b0cd36b32c9f6f842d9e99a71f_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/813/d72dc5b0cd36b32c9f6f842d9e99a71f_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/813/d72dc5b0cd36b32c9f6f842d9e99a71f_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "vI_bbLDW",
+        "name": "Easy On Me",
+        "type": "",
+        "album": {
+          "id": "32186352",
+          "name": "Easy On Me Baby",
+          "url": "https://www.jiosaavn.com/album/easy-on-me-baby/HIph,s6ADlI_"
+        },
+        "year": "2021",
+        "releaseDate": null,
+        "duration": "186",
+        "label": "HGG & IFEDAPOMOLA Records",
+        "primaryArtists": "Olivia Justin",
+        "primaryArtistsId": "11878616",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 1,
+        "playCount": "",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/BiE0UxZ8c2Q",
+        "copyright": "© 2021 HGG & IFEDAPOMOLA Records",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/238/Easy-On-Me-Baby-English-2021-20220114193846-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/238/Easy-On-Me-Baby-English-2021-20220114193846-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/238/Easy-On-Me-Baby-English-2021-20220114193846-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/238/187060e97db183830ba279f45964a237_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/238/187060e97db183830ba279f45964a237_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/238/187060e97db183830ba279f45964a237_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/238/187060e97db183830ba279f45964a237_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/238/187060e97db183830ba279f45964a237_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "O7jCZL0w",
+        "name": "Easy On Me",
+        "type": "",
+        "album": {
+          "id": "33868264",
+          "name": "Popular Songs, vol. 22",
+          "url": "https://www.jiosaavn.com/album/popular-songs-vol.-22/XTA7W11riUA_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "215",
+        "label": "Saxtribution",
+        "primaryArtists": "Saxtribution",
+        "primaryArtistsId": "8536696",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "unknown",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/P18Bci58B0Q",
+        "copyright": "© 2022 Saxtribution",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/180/Popular-Songs-vol-22-Unknown-2022-20220329075440-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/180/Popular-Songs-vol-22-Unknown-2022-20220329075440-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/180/Popular-Songs-vol-22-Unknown-2022-20220329075440-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/180/e43891f3cb126644928b28dd99e5696b_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/180/e43891f3cb126644928b28dd99e5696b_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/180/e43891f3cb126644928b28dd99e5696b_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/180/e43891f3cb126644928b28dd99e5696b_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/180/e43891f3cb126644928b28dd99e5696b_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "ScXDy-fG",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "34830853",
+          "name": "The Piano Covers Album",
+          "url": "https://www.jiosaavn.com/album/the-piano-covers-album/tvF8pdm27A8_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "206",
+        "label": "John Anthony Watson",
+        "primaryArtists": "John Watson",
+        "primaryArtistsId": "521870",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "unknown",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/IwszdQ0dUXQ",
+        "copyright": "© 2022 John Anthony Watson",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/755/The-Piano-Covers-Album-Unknown-2022-20220508070204-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/755/The-Piano-Covers-Album-Unknown-2022-20220508070204-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/755/The-Piano-Covers-Album-Unknown-2022-20220508070204-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/755/b14020047cb43d91fc589b0dca566ea2_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/755/b14020047cb43d91fc589b0dca566ea2_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/755/b14020047cb43d91fc589b0dca566ea2_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/755/b14020047cb43d91fc589b0dca566ea2_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/755/b14020047cb43d91fc589b0dca566ea2_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "Go1LJTKk",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "12653150",
+          "name": "Yolanda Station",
+          "url": "https://www.jiosaavn.com/album/yolanda-station/xhDxOMdByro_"
+        },
+        "year": "2018",
+        "releaseDate": null,
+        "duration": "264",
+        "label": "Lost Alley Records",
+        "primaryArtists": "Jesse Ray Smith",
+        "primaryArtistsId": "4711295",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/NwdafT5kfFg",
+        "copyright": "℗ 2018 Lost Alley Records",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/499/Yolanda-Station-English-2018-20180415072140-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/499/Yolanda-Station-English-2018-20180415072140-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/499/Yolanda-Station-English-2018-20180415072140-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/499/58bf6cf67dcb8034b54b2565c3181eeb_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/499/58bf6cf67dcb8034b54b2565c3181eeb_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/499/58bf6cf67dcb8034b54b2565c3181eeb_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/499/58bf6cf67dcb8034b54b2565c3181eeb_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/499/58bf6cf67dcb8034b54b2565c3181eeb_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "ZrzroGcZ",
+        "name": "Easy on Me",
+        "type": "",
+        "album": {
+          "id": "16036480",
+          "name": "Easy on Me",
+          "url": "https://www.jiosaavn.com/album/easy-on-me/CLPzE8y6wfs_"
+        },
+        "year": "2019",
+        "releaseDate": null,
+        "duration": "273",
+        "label": "High 4 Recordings LLC",
+        "primaryArtists": "Bradley Arthur Maxwell",
+        "primaryArtistsId": "6456642",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "english",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/KhoRQxt3VGk",
+        "copyright": "(P) 2019 High 4 Recordings",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/743/Easy-on-Me-English-2019-20190530165707-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/743/Easy-on-Me-English-2019-20190530165707-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/743/Easy-on-Me-English-2019-20190530165707-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/743/e8ddb3ac1dd3b79e60bf4aa6a91f9bca_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/743/e8ddb3ac1dd3b79e60bf4aa6a91f9bca_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/743/e8ddb3ac1dd3b79e60bf4aa6a91f9bca_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/743/e8ddb3ac1dd3b79e60bf4aa6a91f9bca_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/743/e8ddb3ac1dd3b79e60bf4aa6a91f9bca_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "4RzU-jni",
+        "name": "Easy On Me",
+        "type": "",
+        "album": {
+          "id": "30766538",
+          "name": "Easy On Me",
+          "url": "https://www.jiosaavn.com/album/easy-on-me/Gz0ZyGNA394_"
+        },
+        "year": "2021",
+        "releaseDate": null,
+        "duration": "196",
+        "label": "Ten Zen",
+        "primaryArtists": "Music Lab Collective",
+        "primaryArtistsId": "772157",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "",
+        "language": "unknown",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/easy-on-me/RDoRZFlaWVo",
+        "copyright": "© 2021 Ten Zen",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/674/Easy-On-Me-Unknown-2021-20211110201743-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/674/Easy-On-Me-Unknown-2021-20211110201743-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/674/Easy-On-Me-Unknown-2021-20211110201743-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/674/43611eeee9377ffaab9b62ed9251f0bb_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/674/43611eeee9377ffaab9b62ed9251f0bb_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/674/43611eeee9377ffaab9b62ed9251f0bb_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/674/43611eeee9377ffaab9b62ed9251f0bb_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/674/43611eeee9377ffaab9b62ed9251f0bb_320.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}
